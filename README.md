@@ -32,7 +32,7 @@ Maximum number of hops between two points or dtermine the longest path.         
       13     17  End at 17                                                                                                              
                                                                                                                                         
                                                                                                                                         
-    RULES pick the logest from all the routes                                                                                           
+    RULES pick the longest from all the routes                                                                                           
                                                                                                                                         
      Here are all the routes                                                                                                            
                                                                                                                                         
